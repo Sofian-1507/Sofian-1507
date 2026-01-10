@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I’m Sofian Chicktay
 **Computer Engineering Student | Full-Stack Developer | Backend & Systems Enthusiast from India**
 
-📧 **Email me:** ✉️ your-email@example.com — open to collaboration, projects, and discussions.
+📧 **Email me:** ✉️ sofianchicktay1507@gmail.com— open to collaboration, projects, and discussions.
 
 ---
 
@@ -21,7 +21,7 @@
   Java, PHP, MySQL, MERN Stack, project building, and problem-solving approaches
 
 - 📫 **How to reach me:**  
-  ✉️ your-email@example.com
+  ✉️ sofianchicktay1507@gmail.com
 
 - 😄 **Pronouns:**  
   He/Him
