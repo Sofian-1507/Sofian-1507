@@ -1,34 +1,34 @@
+# 💫 Hi 👋, I’m Sofian Chicktay
+**Computer Engineering Student | Full-Stack Developer | Backend & Systems Enthusiast from India**
 
-##💫 Hi 👋, I’m Sofian Chicktay
+📧 **Email me:** ✉️ your-email@example.com — open to collaboration, projects, and discussions.
 
-Computer Engineering Student | Full-Stack Developer | Backend & Systems Enthusiast from India
+---
 
-📧 Email me: ✉️ your-email@example.com
- — open to collaboration, projects, and discussions.
+- 🔭 **I’m currently working on:**  
+  Full-stack web applications, database-driven systems, and real-world academic & personal projects
 
-🔭 I’m currently working on:
-Full-stack web applications, database-driven systems, and real-world academic & personal projects
+- 🌱 **I’m currently learning:**  
+  MERN Stack, backend architecture, databases, system design, and AI fundamentals
 
-🌱 I’m currently learning:
-MERN Stack, backend architecture, databases, system design, and AI fundamentals
+- 👯 **I’m looking to collaborate on:**  
+  Web development projects, backend systems, open-source tools, and hackathon ideas
 
-👯 I’m looking to collaborate on:
-Web development projects, backend systems, open-source tools, and hackathon ideas
+- 🤔 **I’m looking for help with:**  
+  Scaling applications, system design best practices, and advanced backend concepts
 
-🤔 I’m looking for help with:
-Scaling applications, system design best practices, and advanced backend concepts
+- 💬 **Ask me about:**  
+  Java, PHP, MySQL, MERN Stack, project building, and problem-solving approaches
 
-💬 Ask me about:
-Java, PHP, MySQL, MERN Stack, project building, and problem-solving approaches
+- 📫 **How to reach me:**  
+  ✉️ your-email@example.com
 
-📫 How to reach me:
-✉️ your-email@example.com
+- 😄 **Pronouns:**  
+  He/Him
 
-😄 Pronouns:
-He/Him
+- ⚡ **Fun fact:**  
+  I enjoy turning complex problems into clean, working software 🚀
 
-⚡ Fun fact:
-I enjoy turning complex problems into clean, working software 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sofianchicktay1507) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sofianchicktay1507@gmail.com) 
